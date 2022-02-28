@@ -1,0 +1,10 @@
+D:\Boody's stuff\C# Projects\Drawing app\bin\Debug\Drawing app.exe.config
+D:\Boody's stuff\C# Projects\Drawing app\bin\Debug\Drawing app.exe
+D:\Boody's stuff\C# Projects\Drawing app\bin\Debug\Drawing app.pdb
+D:\Boody's stuff\C# Projects\Drawing app\obj\Debug\Drawing app.csproj.AssemblyReference.cache
+D:\Boody's stuff\C# Projects\Drawing app\obj\Debug\Drawing_app.Properties.Resources.resources
+D:\Boody's stuff\C# Projects\Drawing app\obj\Debug\Drawing app.csproj.GenerateResource.cache
+D:\Boody's stuff\C# Projects\Drawing app\obj\Debug\Drawing app.csproj.CoreCompileInputs.cache
+D:\Boody's stuff\C# Projects\Drawing app\obj\Debug\Drawing app.exe
+D:\Boody's stuff\C# Projects\Drawing app\obj\Debug\Drawing app.pdb
+D:\Boody's stuff\C# Projects\Drawing app\obj\Debug\Drawing_app.WhiteBoard.resources
